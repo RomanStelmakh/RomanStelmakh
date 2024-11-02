@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Roman Stelmakh
+# Hello!  I'm Roman Stelmakh
 
 My name is Roman, and I am an aspiring Fullstack Developer focused on enhancing my skills and growing in the IT field. I am passionate about modern web technologies and data processing. Currently, I am learning **JavaScript** and working on web development projects.
 
@@ -6,7 +6,7 @@ My name is Roman, and I am an aspiring Fullstack Developer focused on enhancing 
 
 ---
 
-### 🚀 My Skills and Technologies:
+###  My Skills and Technologies:
 
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
@@ -25,14 +25,14 @@ My name is Roman, and I am an aspiring Fullstack Developer focused on enhancing 
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanStelmakh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanStelmakh&layout=compact&theme=radical)
 
 ---
 
-### 🌱 What I’m Currently Working On:
+###  What I’m Currently Working On:
 - Deepening my knowledge of **JavaScript** and working on projects
 - Preparing for **Fachinformatiker (Anwendungsentwickler)** training in 2025 in the state of Hesse, Germany
 
