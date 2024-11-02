@@ -1,14 +1,12 @@
-# Привет! 👋 Я Роман Стельмах
+# Hello! 👋 I'm Roman Stelmakh
 
-![Приветственное изображение](https://your-image-url.com/banner.png)
+My name is Roman, and I am an aspiring Fullstack Developer focused on enhancing my skills and growing in the IT field. I am passionate about modern web technologies and data processing. Currently, I am learning **JavaScript** and working on web development projects.
 
-Меня зовут Роман, я - начинающий Fullstack-разработчик, стремящийся улучшить свои навыки и развиваться в сфере IT. Мне интересны современные веб-технологии и работа с данными. В настоящий момент изучаю **JavaScript** и работаю над проектами в области веб-разработки.
-
-![Просмотры профиля](https://komarev.com/ghpvc/?username=RomanStelmakh&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=RomanStelmakh&color=blue&style=flat-square)
 
 ---
 
-### 🚀 Мои технологии и навыки:
+### 🚀 My Skills and Technologies:
 
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
@@ -27,29 +25,25 @@
 
 ---
 
-### 📈 GitHub Статистика
+### 📈 GitHub Stats
 
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=RomanStelmakh&show_icons=true&theme=radical)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanStelmakh&layout=compact&theme=radical)
-
----
-
-
-
-### 🌱 Чем я сейчас занимаюсь:
-- Углубляю знания в **JavaScript** и работаю над проектами
-- Готовлюсь к обучению на **Fachinformatiker (Anwendungsentwickler)** на 2025 год в земле Гессен, Германия
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanStelmakh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanStelmakh&layout=compact&theme=radical)
 
 ---
 
-### 📫 Как со мной связаться:
+### 🌱 What I’m Currently Working On:
+- Deepening my knowledge of **JavaScript** and working on projects
+- Preparing for **Fachinformatiker (Anwendungsentwickler)** training in 2025 in the state of Hesse, Germany
 
-- LinkedIn: [https://www.linkedin.com/in/roman1985stelmakh/](ссылка)
-- Email: [Ваш email](mailto:rstelmakh85@gmail.com)
+---
+
+### 📫 How to Reach Me:
+
+- LinkedIn: [https://www.linkedin.com/in/roman1985stelmakh/](https://www.linkedin.com/in/roman1985stelmakh/)
+- Email: [Your email](mailto:rstelmakh85@gmail.com)
 
 ---
 
-**Спасибо, что заглянули!** 
-
----
+**Thank you for visiting!**
 
